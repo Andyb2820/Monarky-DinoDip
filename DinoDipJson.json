@@ -137,7 +137,7 @@
 						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 8
 			},
 			{
 				"weekforoptions": [
@@ -200,13 +200,8 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
 						"chancetodrop": 0.95
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
-					{
+					},
+				    {
 						"dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
 						"chancetodrop": 0.9
 					},
@@ -263,7 +258,7 @@
 						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 8
 			},
 			{
 				"weekforoptions": [
@@ -322,13 +317,8 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
 						"chancetodrop": 0.8
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
-					{
+					},
+				    {
 						"dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
 						"chancetodrop": 0.4
 					},
@@ -389,7 +379,7 @@
 						"chancetodrop": 0.4
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 8
 			},
 			{
 				"weekforoptions": [
@@ -455,4 +445,5 @@
 		]
 	}
 }
+
 
